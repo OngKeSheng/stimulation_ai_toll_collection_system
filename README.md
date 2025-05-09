@@ -1,6 +1,6 @@
 # 🛣️ AI-Powered Toll Collection System
 
-An intelligent toll collection system designed to automate vehicle classification at toll booths using computer vision and AI. This lightweight and efficient model identifies vehicle types (e.g., car, van, truck) through image analysis — eliminating the need for manual classification by toll booth staff.
+An intelligent toll collection system designed to automate vehicle classification at toll booths using computer vision and AI. This lightweight and efficient model identifies vehicle types (e.g., car, van, truck, taxi, bus) through image analysis — eliminating the need for manual classification by toll booth staff.
 
 ## 🚀 Features
 
@@ -46,9 +46,26 @@ from PIL import Image, ImageTk
 from tensorflow.keras.models import load_model
 import cv2 as cv
 from ultralytics import YOLO
+
+
 import pymysql
 import pygame
 import time
 from decimal import Decimal
 import datetime
+```
+
+## 🔧 Installation Guide
+
+Follow these steps in your Command Prompt to install all required libraries:
+
+```bash
+pip install numpy
+pip install pillow
+pip install tensorflow
+pip install opencv-python
+pip install ultralytics
+pip install pymysql
+pip install pygame
+```
 
