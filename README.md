@@ -94,3 +94,5 @@ Follow these steps to set up and explore the AI-Powered Toll Collection System:
 > 💡 Make sure your browser allows local file access and that Apache/MySQL are running.
 
 ---
+
+“🎥 System Demo -------------- You can watch a video demonstration of the system here: 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=MjdhIVKxQho&t=1s)”
