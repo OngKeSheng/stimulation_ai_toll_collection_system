@@ -23,8 +23,6 @@ An intelligent toll collection system designed to automate vehicle classificatio
 - TensorFlow / PyTorch (based on chosen model)
 - Webcam or IP camera for image input
 
-## 📁 Project Structure
-
 ## ✅ Software Requirements
 
 - **XAMPP** (Install **Apache** and **MySQL** server)
@@ -69,3 +67,30 @@ pip install pymysql
 pip install pygame
 ```
 
+## 🛠️ System Setup Instructions
+
+Follow these steps to set up and explore the AI-Powered Toll Collection System:
+
+### 📁 Step-by-Step Setup
+
+1. **Extract** the `try.zip` folder into the following directory: C:\xampp\htdocs
+   
+2. **Open XAMPP Control Panel** and click **Start** on both **Apache** and **MySQL** to run the local server and database services.
+
+3. In XAMPP, click **Admin** next to **MySQL** to open **phpMyAdmin** in your browser.
+
+4. In phpMyAdmin:
+- Click **New** to create a new database.
+- Name it:
+  ```
+  tollcollectionsystem
+  ```
+- Click **Import**, and choose the `tollcollectionsystem.sql` file to import the database structure and data.
+
+5. Open a browser tab and enter the following local URL to access the system's web interface: C:/xampp/htdocs/try/model.html
+
+6. ✅ **You're all set!** You can now explore and interact with the AI-powered toll collection system.
+
+> 💡 Make sure your browser allows local file access and that Apache/MySQL are running.
+
+---
