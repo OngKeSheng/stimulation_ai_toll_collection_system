@@ -95,4 +95,6 @@ Follow these steps to set up and explore the AI-Powered Toll Collection System:
 
 ---
 
-“🎥 System Demo -------------- You can watch a video demonstration of the system here: 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=MjdhIVKxQho&t=1s)”
+### 🎥 System Demo 
+
+You can watch a video demonstration of the system here: 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=MjdhIVKxQho&t=1s)
